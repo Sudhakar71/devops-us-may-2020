@@ -1,0 +1,875 @@
+    1  pwd 
+    2  ls -lha /root
+    3  vim /root/.bashrc
+    4  ls 
+    5  javac -version
+    6  which javac
+    7  ls -l /bin/javac
+    8  ls -l etc/alternatives/javac
+    9  ls -l /etc/alternatives/javac
+   10  gedit .bashrc
+   11  cat -/.bashrc
+   12  cat ~/.bashrc
+   13  gedit .bashrc
+   14  cat ~/.bashrc
+   15  mvn --version
+   16  CD /home/Sudhakar/Downloads/apache-maven-3.6.3
+   17  cd /home/Sudhakar/Downloads/apache-maven-3.6.3
+   18  ls 
+   19  cd /conf 
+   20  cd conf 
+   21  ls 
+   22  cd 
+   23  gedit .bashrc
+   24  mvn --version
+   25  cat ~/.bashrc
+   26  sudo s -
+   27  sudo su -
+   28  javac version
+   29  gedit .bashrc
+   30  javac version
+   31  javac -version
+   32  which javac
+   33  ls -l /bin/javac 
+   34  gedit .bashrc
+   35  javac -version 
+   36  which Javac
+   37  sudo su -
+   38  gedit /root/.bashrc
+   39  Cd /root
+   40  cd /root 
+   41  pwd
+   42  ls -lha 
+   43  gedit .bashrc
+   44  clear
+   45  javac -version
+   46  gedit /root/.bashrc
+   47  javac -version
+   48  pwd
+   49  cd /home 
+   50  pwd
+   51  cd sudhakar
+   52  cd /Sudhakar
+   53  pwd
+   54  sudo Su -
+   55  sudo su -
+   56  source ~/.bashrc
+   57  git clone https://github.com/tektutor/devops-us-may-2020.git
+   58  ls
+   59  cd devops-us-may-2020/
+   60  ls
+   61  cd Day1
+   62  ls
+   63  cd Hello/
+   64  ls
+   65  mvn package
+   66  ls 
+   67  gedit pom.xml
+   68  mvn --version
+   69  pwd 
+   70  cd /home/sudhakar
+   71  cd /home
+   72  ls 
+   73  cd Sudhkar
+   74  cd Sudhakar
+   75  ls
+   76  cd DevOpsSud/
+   77  ls
+   78  cd Day1
+   79  ls
+   80  cd Hello
+   81  ls
+   82  mvn compile 
+   83  gedit pom.xml
+   84  cd /home 
+   85  ls 
+   86  cd Sudhakar
+   87  ls 
+   88  gedit pom.xml 
+   89  cd DevOpsSud
+   90  ls 
+   91  cd..
+   92  cd /home
+   93  cd DevOpsSud/Day1/Home
+   94  ls
+   95  cd..
+   96  cd 
+   97   cd Sudhakar
+   98  ls 
+   99  cd devops-us-may-2020/
+  100  ls
+  101  cd day1
+  102  cd Day1
+  103  ls
+  104  cd Hello 
+  105  ls
+  106  gedit pom.xml
+  107  cd src
+  108  ls
+  109  cd test
+  110  ls
+  111  cd java
+  112  ls
+  113  tree
+  114  cd org
+  115  ls
+  116  cd tektutor
+  117  ls
+  118  mvn compile
+  119  ls 
+  120  mvn help:
+  121  mvn help:describe -Dcmd=compile
+  122  ls 
+  123  cd ..
+  124  ls
+  125  cd ..
+  126  pwd 
+  127  cd ..
+  128  pwd
+  129  cd ..
+  130  pwd
+  131  cd ..
+  132  mvn help:describe -Dcmd=compile
+  133  mvn compile 
+  134  mvn help:describe -Dcmd=compile
+  135  pwd
+  136  mvn --version
+  137  ls 
+  138  tree
+  139  cd src
+  140  ls
+  141  cd main
+  142  ls
+  143  cd ..
+  144  ls 
+  145  yim install tree
+  146  yum install tree
+  147  tree
+  148  pwd
+  149  cd 
+  150  ls 
+  151  cd /home/Sudhakar
+  152  cd DevOpsSud/Day1/Hello/
+  153  ls
+  154   gedit pom.xml 
+  155  cd src/main/
+  156  ls
+  157  cd java/org/sud/
+  158  ls
+  159  gedit Hello.java
+  160  git pull
+  161  cd .. 
+  162  cd ..
+  163  cd .
+  164  cd 
+  165  ls 
+  166  cd /home/Sudhakar
+  167  git clone https://github.com/tektutor/devops-us-may-2020.git 
+  168  ls 
+  169  cd devops-us-may-2020/
+  170  ls
+  171  exit 
+  172  cd /home/Sudhakar
+  173  ls
+  174  cd DevopsSud/Day1/Hello
+  175  cd DevOpsSud/Day1/Hello
+  176  ls
+  177  vim pom.xml 
+  178  cd /home/Sudhakar 
+  179  ls
+  180  mvn help:describe -Dcmd=compile
+  181  mvn --version
+  182  cd /home/Sudhakar/Downloads/apache-maven-3.6.3
+  183  ls
+  184  cd conf
+  185  ls
+  186  gedit settings.xml
+  187   cd /home/Sudhakar/Downloads/
+  188  ls
+  189  tar xvfz nexus-3.23.0-03-unix.tar.gz
+  190  ls 
+  191  cd nexus-3.23.0-03/
+  192  ls
+  193  cd bin
+  194  ls
+  195  ls - l
+  196  ls -l
+  197  ./nexus start 
+  198  cat /home/Sudhakar/Downloads/sonatype-work/nexus3/admin.password 
+  199  cd /home/Sudhakar
+  200  ls 
+  201  cd devops-us-may-2020/
+  202  git pull
+  203  ls 
+  204  git pull 
+  205  ls 
+  206  cd Day3 
+  207  ls
+  208  cd CRM 
+  209  ls 
+  210  gedit pom.xml
+  211  mvn --version 
+  212  cd /home/Sudhakar/Downloads/apache-maven-3.6.3
+  213  ls
+  214  ls conf
+  215  gedit settings.xml
+  216  cd bin
+  217  ls
+  218  cd ..
+  219  ls 
+  220  cd conf
+  221  pwd
+  222  ls 
+  223  gedit settings.xml
+  224  mvn deploy 
+  225  cd ..
+  226  cd /home/Sudhakar/
+  227  ls
+  228  cd devops-us-may-2020/
+  229  ls
+  230  mvn upload 
+  231  cd Day3
+  232  ls
+  233  mvn upload 
+  234  cd CRM
+  235  mvn deploy
+  236  ls 
+  237  rm cpp 
+  238  rm CPP
+  239  rmdir CPP
+  240  ls 
+  241  rmdir cpp
+  242  rmdir -p
+  243  man rmdir 
+  244  ls
+  245  edit pom.xml
+  246  gedit pom.xml
+  247  ls
+  248  mcn deploy
+  249  mvn deploy
+  250  gedit pom.xml
+  251  ls
+  252  cd main
+  253  ls
+  254  gedit pom.xml
+  255  cd ..
+  256  ls
+  257  gedit pom.xml 
+  258  ls
+  259  mvn deploy
+  260  cd ..
+  261  Failed to execute goal org.codehaus.mojo:exec-maven-plugin:1.6.0:exec (custom-compile) on project tektutor-cpp-app: Command execution failed.: Process exited with an error: 2 (Exit value: 2) -> [Help 1]
+  262  mvn archetype:generate -DgroupId=org.tektutor -DartifactId=tektutor-hello-plugin -Dversion=1.0.0 -DarchetypeArtifactID=maven-archetype-plugin -DinteractiveMode=false
+  263  ls 
+  264  cd tektutor-hello-plugin/
+  265  ls
+  266  cd src
+  267  ls
+  268  tree
+  269  cd ..
+  270  ls
+  271  tree 
+  272  ls 
+  273  cd tektutor-hello-plugin/
+  274  ls
+  275  tree
+  276  cd ..
+  277  cd /home/Sudhakar/Downloads/
+  278  ls
+  279  cd nexus-3.23.0-03/
+  280  ls
+  281  cd bin
+  282  cd /home/Sudhakar
+  283  ls 
+  284  cd devops-us-may-2020/
+  285  ls 
+  286  cd Day3
+  287  ls
+  288  CD CRM
+  289  cd CRM
+  290  ls
+  291  mvn deploy 
+  292  ls 
+  293  gedit pom.xml 
+  294  mvn clean deploy -U
+  295  ls
+  296  cd frontend
+  297  gedit pom.xml
+  298  cd ..
+  299  ls
+  300  gedit pom.xml 
+  301  gedit pom.xml &
+  302  q
+  303  cd /home/Sudhakar
+  304  ls
+  305  cd DevOpsSud/Day1/Hello
+  306  ls
+  307  tree
+  308  cd src/test/java/org/sud/
+  309  ls
+  310  gedit Hellotest.java
+  311  cd ..
+  312  cd..
+  313  cd ..
+  314  cd 
+  315  sudo su - 
+  316  cd /home/Sudhakar/
+  317  ls
+  318  cs devops-us-may-2020/
+  319  cd devops-us-may-2020/
+  320  git pull
+  321  cd Day3 
+  322  ls 
+  323  cd tektutor-hello-plugin/
+  324  mvn help:effetive-settings
+  325  mvn help:effective-settings
+  326  cd ..
+  327  ls 
+  328  cd CRM 
+  329  ls
+  330  gedit pom.xml 
+  331  gedit pom.xml &
+  332  cd /home/Sudhakar
+  333  ls
+  334  cd Downloads/
+  335  ls
+  336  cd nexus-3.23.0-03/
+  337  ls
+  338  cd bin 
+  339  ls
+  340  cd //
+  341  cd ..
+  342  cd /home/Sudhakar/
+  343  ls
+  344  cd devops-us-may-2020/
+  345  ls
+  346  cd Day3 
+  347  ls
+  348  git --version
+  349  cd ..
+  350  ls
+  351   CD Day4 
+  352  cd ..
+  353  ls 
+  354  de DevOpsSud/
+  355  ls
+  356  cd DevOpsSud/
+  357  ls
+  358  cd Day4 
+  359  mkdir Gitdemo
+  360  ls
+  361  cd Gitdemo
+  362  touch Gitdemo.xml 
+  363  ls
+  364  gedit Gitdemo.xml 
+  365  ls
+  366  rm Gitdemo.xml
+  367  ls
+  368  touch fruits.txt
+  369  ls
+  370  gedit fruits.txt 
+  371  git init 
+  372  ls 
+  373  ls - l
+  374  ls -l
+  375  git config --global user.name "Sudhakar Sadhasivam"
+  376  git config --global user.email "Sudhavarsh@gmail.com"
+  377  git config --list
+  378  pwd
+  379  cd ..
+  380  ls
+  381  cd mkdir Day4
+  382  mkdir Day4
+  383  mkdir Gitdemo
+  384  cd Day4
+  385  ls
+  386  mkdir Gitdemo
+  387  cd Gitdemo
+  388  ls
+  389  cd ..
+  390  ls
+  391  cd Gitdemo
+  392  git config --list
+  393  ls 
+  394  cd .. 
+  395  cd Day4 
+  396  touch fruits1.txt 
+  397  gedit fruits1.txt 
+  398  ls
+  399  cd Gitdemo 
+  400  git config --list
+  401  git config --list 
+  402  git status 
+  403  git confit --list 
+  404  git config --list 
+  405  git status
+  406  cd Day4 
+  407  cd ..
+  408  cd
+  409  ls 
+  410  cd /home/Sudhakar/
+  411  ls
+  412  pwd
+  413  mkdir Gitdemo
+  414  ls
+  415  cd Gitdemo 
+  416  git init 
+  417  ls 
+  418  ls -lha 
+  419  git config --global user.name "Sudhakar Sadhasivam"
+  420  git config --global user.email "Sudhvarsh@gmail.com"
+  421  git config --list
+  422  gedit fruits.txt  
+  423  git status 
+  424  git add fruits.txt
+  425  git status 
+  426  git fm -cached fruits.txt 
+  427  git rm --cached fruits.txt 
+  428  git status 
+  429  git add fruits.txt
+  430  git status 
+  431  git commit -m "Initial Commit"
+  432  git status 
+  433  clear 
+  434  git status 
+  435  ls 
+  436  git branch
+  437  git log 
+  438  gedit fruits.txt 
+  439  git diff 
+  440  git status 
+  441  gedit fruits.txt 
+  442  git status 
+  443  gedit fruits.txt 
+  444  git status 
+  445  git add fruits.txt 
+  446  git status 
+  447  git commit -m "added orange 
+  448  git commit -m "added orange" 
+  449  git status 
+  450  git log 
+  451  ls 
+  452  sha1sum fruits.txt 
+  453  git log 
+  454  git fruits.txt 
+  455  gedit fruits.txt 
+  456  git diff 
+  457  git add fruits.txt 
+  458  git status 
+  459  git commit -m "Added grapes"
+  460  git log 
+  461  gedit frutis.txt 
+  462  gedit fruits.txt 
+  463  git add fruits.txt 
+  464  git status 
+  465  git commit -m "added banana rm apple"
+  466  git log 
+  467  cd /home/Sudhakar/
+  468  ls
+  469  CD Gitdemo
+  470  cd Gitdemo
+  471  ls
+  472  gedit day4_command_history.txt 
+  473  git branch 
+  474  git status 
+  475  git add day4_command_history.txt
+  476  git status 
+  477  git commit 
+  478  git status 
+  479  gedit day4_command_history.txt &
+  480  man cp 
+  481  docker ps -
+  482  docker ps
+  483  docker ps -a to list all the containers ended 
+  484  docker ps -a # to list all the containers ended 
+  485  docker rename peaceful_yonath Hello_Container
+  486  docker ps -a # to list all the containers ended 
+  487  docker rename peadreamy_brown Ubuntu
+  488  docker rename dreamy_brown Ubuntu
+  489  docker ps -a # to list all the containers ended 
+  490  docker run -dit --name ubuntu2 --hostname ubuntu2 ubuntu:16.04 /bin/bash # to run container in background 
+  491  docker Ps 
+  492  docker ps
+  493  docker search ubuntu # to search the images in docker hub rhather than going to web 
+  494  docker images 
+  495  dokcer ps -a 
+  496  docker ps -a 
+  497  rmi hell0-world:latest
+  498  rmi hello-world;latest 
+  499  docker rmi hello-world:latest 
+  500  docker rmi hello-world:latest #to remove the container
+  501  docker ps -a #to find the contianer being referenced in above remove 
+  502  exit ubuntu2  
+  503  docker images 
+  504  docker ps -a 
+  505  exit 
+  506  docker ps -a 
+  507  exit ubunutu2 
+  508  docker ps -a 
+  509  docker ps 
+  510  exit 
+  511  cd /home/Sudhakar/
+  512  docker --version
+  513  yum install docker-ce docker-ce-cli containerd.io
+  514  docker --version
+  515  docker images 
+  516  systemctl enable docker
+  517  systemctl staus docker 
+  518  systemctl status docker 
+  519  systemctl start docker 
+  520  systemctl status docker 
+  521  docker --version
+  522  docker images 
+  523  docker info
+  524  docker pull hello-world
+  525  docker images 
+  526  docker image inspect hello-world:latest 
+  527  docker run hello-world
+  528  ls
+  529  docker ps # to list the containers 
+  530  docker run -it ubuntu:16.04 /bin/bash
+  531  docker images 
+  532  cd ..
+  533  cd .
+  534  cd ..
+  535  docker images 
+  536  cd /home/Sudhakar
+  537  ls 
+  538  cd Gitdemo 
+  539  ls
+  540  gedit day4_command_history.txt 
+  541  history >day5_command 
+  542  ls 
+  543  mv day4_command_history.txt  day4_command.txt
+  544  ls 
+  545  mv day5_command day5_command.txt
+  546  ls 
+  547  gedit day5_command.txt 
+  548  cd /home/Sudhakar/
+  549  ls
+  550  cd Gitdemo
+  551  ls
+  552  clear 
+  553  ls 
+  554  docker --version
+  555  cd ..
+  556  pwd
+  557  docker --version
+  558  yum install -y yum-utils
+  559  docker --version
+  560  yum-config-manager     --add-repo     https://download.docker.com/linux/centos/docker-ce.repo
+  561  docker --version 
+  562  sudo su -s
+  563  sudo su -
+  564  ls 
+  565  cd /home/Sudhakar/
+  566  ls
+  567  docker ps 
+  568  cd devops-us-may-2020/
+  569  ls
+  570  git pull
+  571  ls 
+  572  cd ..
+  573  git pull
+  574  docker ps 
+  575  docker exec -it ubuntu2 bash
+  576  docker ps 
+  577  docker ps -a 
+  578  docker ps -aq
+  579  docker ps -q
+  580  docker stop $(docker ps -q) && docker rm $(docker ps -aq ## to stop and remove the containers 
+  581  docker stop $(docker ps -q) && docker rm $(docker ps -aq) ## to stop and remove the containers 
+  582  docker ps -a
+  583  docker run --name c1 --hostname c1 ubuntu16:04 /bin/bash
+  584  docker run --name c1 --hostname c1 ubuntu:16.04 /bin/bash
+  585  docker ps 
+  586  docker ps -a 
+  587  docker start c1 
+  588  docker ps 
+  589  docker ps -a 
+  590  docker run it --name c1 --hostname c1 ubuntu:16.04 /bin/bash
+  591  docker run --help 
+  592  docker run -it --name c1 --hostname c1 ubuntu:16.04 /bin/bash
+  593  docker run -it --name c2 --hostname c2 ubuntu:16.04 /bin/bash
+  594  docker ps -a 
+  595  docker run  --name mysql --hostname mysql -e MYSQL_ROOT_PASSWORD-admin123 -d mysql1:5.6
+  596  docker run  --name mysql --hostname mysql -e MYSQL_ROOT_PASSWORD-admin123 -d mysql:5.6
+  597  docker images 
+  598  docker exec -it mysql bash
+  599  docker start mysql 
+  600  docker exec -it mysql bash
+  601  docker run mysql 
+  602  docker ps 
+  603  docker ps -a 
+  604  docker run  --name mysql1 --hostname mysql1 -e MYSQL_ROOT_PASSWORD-admin123 -d mysql:5.6
+  605  docker ps 
+  606  docker ps -a 
+  607  docker exec -it mysql bash 
+  608  docker exec -it mysql bin/bash
+  609  docker run  --name mysql1 --hostname mysql1 -v /home/Sudhakar/Day6/databases:var/lib/mysql -e  MYSQL_ROOT_PASSWORD-admin123 -d mysql:5.6
+  610  docker run  --name mysql2 --hostname mysql2 -v /home/Sudhakar/Day6/databases:var/lib/mysql2 -e  MYSQL_ROOT_PASSWORD-admin123 -d mysql:5.6
+  611  mkdir Day6
+  612  ls
+  613  cd Day6
+  614  mkdir databases
+  615  ls
+  616  cd ..
+  617  docker run  --name mysql2 --hostname mysql2 -v /home/Sudhakar/Day6/databases:var/lib/mysql2 -e  MYSQL_ROOT_PASSWORD-admin123 -d mysql:5.6
+  618  docker run  --name mysql2 --hostname mysql2 -v /home/Sudhakar/Day6/databases:var/lib/mysql -e  MYSQL_ROOT_PASSWORD-admin123 -d mysql:5.6
+  619  cd Day6 
+  620  cd databases
+  621  docker run  --name mysql2 --hostname mysql2 -v /home/Sudhakar/Day6/databases:var/lib/mysql -e  MYSQL_ROOT_PASSWORD-admin123 -d mysql:5.6
+  622  docker ps 
+  623  docker ps -a 
+  624  docker rm mysql 
+  625  docker ps -a 
+  626  docker rm mysql1
+  627  docker ps -a 
+  628  docker rm happy_hawking 
+  629  docker ps -a 
+  630  docker run --name mysql --hostname mysql -v /home/Sudhakar/Day6/databases:var/lib/mysql -e  MYSQL_ROOT_PASSWORD-admin123 -d mysql:5.6
+  631  docker search mysql 
+  632  docker run --name mysql --hostname mysql -v /home/Sudhakar/Day6/databases:var/lib/mysql -e  MYSQL_ROOT_PASSWORD-admin123 -d mysql:5.6
+  633  docker inspect myql 
+  634  docker run  --name mysql1 --hostname mysql1 -e MYSQL_ROOT_PASSWORD-admin123 -d mysql:5.6
+  635  docker ps 
+  636  docker exec -it mysql bin/bash 
+  637  docker exec -it mysql1 bin/bash 
+  638  docker start 
+  639  docker start mysql1 
+  640  docker exec -it mysql1 bin/bash 
+  641  docker image 
+  642  dokcer images 
+  643  docker images 
+  644  docker info 
+  645  docker info mysql1
+  646  dokcer info mysql 
+  647  docker info --help 
+  648   docker image inspect mysql
+  649  docker images 
+  650  docker rm mysql 
+  651  docker image inspect mysql 
+  652  docker rm image mysql
+  653  docker images mysql 
+  654  docker run --name mysql --hostname mysql -v /home/Sudhakar/Day6/databases:var/lib/mysql -e  MYSQL_ROOT_PASSWORD-admin123 -d mysql:5.6
+  655  cd ..
+  656  cd ls 
+  657  ls 
+  658  cd Day6
+  659  mkdir CustomerDockerImage 
+  660  ls 
+  661  cd CustomerDockerImage
+  662  ls
+  663  gedit Dockerfile
+  664  docker build -t ibm/ssh
+  665  docker build -t ibm/ssh .
+  666  gedit Dockerfile
+  667  docker build -t ibm/ssh .
+  668  gedit Dockerfile
+  669  docker build -t ibm/ssh .
+  670  gedit Dockerfile
+  671  docker build -t ibm/ssh .
+  672  docker run --name sshd1 --hostname ssdh1 ibm/sshd
+  673  docker run -d --name sshd1 --hostname ssdh1 ibm/sshd
+  674  gedit Dockerfile
+  675  docker run --name sshd1 --hostname ssdh1 ibm/ssh
+  676  q
+  677  quit
+  678  exit
+  679  cd /home/Sudhakar/
+  680  cd Day6 
+  681  ls 
+  682  cd CustomeDockerImage
+  683  cd CustomerDockerImage
+  684  ls
+  685  docker run -d --name sshd2 --hostname ssdh2 ibm/ssh
+  686  docker ps 
+  687  docker run -d --name sshd1 --hostname ssdh1 ibm/ssh
+  688  docker ps 
+  689  ls 
+  690  gedit Dockerfile 
+  691  docker exec -it ssd1 bash 
+  692  docker exec -it sshd1 bash 
+  693  docker restart sshd1
+  694  docker exec -it sshd1 bash 
+  695  docker restart sshd1
+  696  ssh root@172.17.0.2 
+  697  docker restart sshd1
+  698  ssh root@172.17.0.2 
+  699  docker cp ssdh:/etc/ssh/sshd_config
+  700  docker cp ssdh:/etc/ssh/sshd_config .
+  701  docker cp sshd:/etc/ssh/sshd_config
+  702  docker cp sshd1:/etc/ssh/sshd_config .
+  703  ls
+  704  gedit dockerfile &
+  705  gedit Dockerfile &
+  706  docker rm -f $(docker ps -aq)
+  707  docker ps 
+  708  docker ps -a
+  709  ssh-keygen 
+  710  cp /root/.ssh/id_rsa.pub authorized_keys
+  711  ls
+  712  docker rm -f $(docker ps -aq)
+  713  docker build
+  714  docker build --help 
+  715  docker build -t ibm/sud 
+  716  docker images  
+  717  docker build -t ibm/ssh 
+  718  docker build -t ibm/sshd . 
+  719  docker build -t ibm/sshd  
+  720  docker images 
+  721  docker build -t ibm/ssh  
+  722  docker build -t ibm/ssh . 
+  723  gedit Dockerfile &
+  724  ssh @root172.1.0.2 
+  725  gedit Dockerfile &
+  726  docker images 
+  727  ls 
+  728  docker build -t ibm/ssh . 
+  729  exit 
+  730  cd /home/Sudhakar/
+  731  cd devops-us-may-2020/
+  732  ls 
+  733  cd Day7 
+  734  mkkdir Containerpython
+  735  mkdir Containerpython
+  736  cd Containerpython/
+  737  gedit hello.py
+  738  pwd
+  739  gedit hello.py
+  740  python --version 
+  741  yum install -y python-pip
+  742  pip --version
+  743  pip install --upgrade pip 
+  744  pip --version
+  745  pip install flask 
+  746  flask --version
+  747  ls 
+  748  python hello.py
+  749  ls 
+  750  gedit Dockerfile &
+  751  docker build -t tektutor/hello-ms .
+  752  gedit hello.py
+  753  gedit Dockerfile
+  754  docker build -t tektutor/hello-ms .
+  755  gedit Dockerfile
+  756  docker build -t tektutor/hello-ms .
+  757  gedit Dockerfile
+  758  docker build -t tektutor/hello-ms .
+  759  docker images 
+  760  docker run -d --name ms -hostname ms -p 5000:5000 tektutor/hello-ms
+  761  gedit hello.py
+  762  rm tektutor/hello-ms 
+  763  docker rm tektutor/hello-ms
+  764  docker images
+  765  gedit hello.py &
+  766  gedit Dockerfile &
+  767  docker rm -f $(docker ps -aq) # to remove all containers 
+  768  docker build -t tektutor/hello-ms .
+  769  docker run -d --name ms -hostname ms -p 5000:5000 tektutor/hello-ms
+  770  docker images 
+  771  docker run -d --name ms -hostname ms -p 5000:5000 tektutor/hello-ms
+  772  ls 
+  773  docker run -d --name ms --hostname ms -p 5000:5000 tektutor/hello-ms
+  774  ifconfig
+  775  docker images 
+  776  docker ps 
+  777  docker network ls 
+  778  docker network create net 1
+  779  docker network create net1
+  780  docker network create net2
+  781  docker network ls 
+  782  docker rm -f $(docker ps -aq) 
+  783  docker run -dit --name c1 --hostname c1 --network=net1 ubuntu:16.04 /bin/bash 
+  784  docker inspect c1 | grep IPA
+  785  docker run -dit --name c2 --hostname c2 --network=net2 ubuntu:16.04 /bin/bash 
+  786  docker inspect c2 | grep IPA
+  787  docker network inspect bridge 
+  788  ifconfig 
+  789  ifconfig eth0
+  790  docker images 
+  791  docker ps 
+  792  docker network inspect net1 
+  793  docker network inspect net2 
+  794  docker inspect C1 | grep IPA
+  795  docker inspect c1 | grep IPA
+  796  docker inspect c2 | grep IPA
+  797  docker exec -it cl bash 
+  798  docker exec -it c1 bash 
+  799  docker exec -it c2 bash 
+  800  docker network connect net1 C2 
+  801  docker network connect net1 c2 
+  802  docker exec -it c1 bash 
+  803  docker network --help 
+  804  docker connect --help 
+  805  docker exec -it c1 bash 
+  806  docker images 
+  807  docker run -d --name db --hostname db --e MYSQL_ROOT_PASSWORD=admin123 mysql:5.6
+  808  docker run -d --name db --hostname db -e MYSQL_ROOT_PASSWORD=admin123 mysql:5.6
+  809  docker ps 
+  810  docker run --name wp --hostanme wp --network net1 -d wordpress
+  811  docker run --name wp --hostname wp --network net1 -d wordpress
+  812  docker images 
+  813  docker ps 
+  814  docker inspect wordpress
+  815  docker inspect wp | grep IPA
+  816  docker inspect db 
+  817  docker network connect net1  db 
+  818  docker restart wp 
+  819  docker rm -f wp db 
+  820  docker run -d --name db --hostname db -e MYSQL_ROOT_PASSWORD=admin123 --network-net1 mysql:5.6
+  821  docker run -d --name db --hostname db -e MYSQL_ROOT_PASSWORD=admin123 --network=net1 mysql:5.6
+  822  docker run --name wp --hostname wp -e WORDPRESS_DB_HOST=172.18.0.2 -e WORDPRESS_DB_USER=admin -e WORDPRES_DB_PASSWORD=admin123 --network net1 -d wordpress
+  823  docker ps 
+  824  docker inspect wp | grep IPA
+  825  docker inspect db | grep IPA
+  826  docker rm -f wp db 
+  827  docker run -d --name db --hostname db -e MYSQL_ROOT_PASSWORD=admin123 --network=net1 mysql:5.6
+  828  docker inspect db | grep IPA
+  829  docker run --name wp --hostname wp -e WORDPRESS_DB_HOST=172.18.0.4 -e WORDPRESS_DB_USER=admin -e WORDPRES_DB_PASSWORD=admin123 --network net1 -d wordpress
+  830  docker inspect wp | grep IPA
+  831  docker ps 
+  832  docker rm -f wp db 
+  833  docker run -d --name db --hostname db -e MYSQL_ROOT_PASSWORD=admin123 --network=net1 mysql:5.6
+  834  docker inspect db | grep IPA
+  835  docker run --name wp --hostname wp -e WORDPRESS_DB_HOST=172.18.0.4 -e WORDPRESS_DB_USER=root -e WORDPRES_DB_PASSWORD=admin123 --network net1 -d wordpress
+  836  docker inspect wp | grep IPA
+  837  docker rm -f wp db 
+  838  docker run -d --name db --hostname db -e MYSQL_ROOT_PASSWORD=admin123 --network=net1 mysql:5.6
+  839  docker run --name wp --hostname wp -e WORDPRESS_DB_HOST=172.18.0.4 -e WORDPRESS_DB_USER=root -e WORDPRESS_DB_PASSWORD=admin123 --network net1 -d wordpress
+  840  docker inspect db | grep IPA
+  841  docker inspect wp | grep IPA
+  842  ls 
+  843  cd .. 
+  844  cd ..
+  845  ls 
+  846  cd ..
+  847  ls 
+  848  cd Day6
+  849  ls 
+  850  cd ..
+  851  cd Gitdemo 
+  852  ls 
+  853  gedit day5_command.txt 
+  854  cd ..
+  855  history >/home/Sudhakar/devops-us-may-2020/day7_command.txt 
+  856  ls 
+  857  cd devops-us-may-2020/
+  858  ls
+  859  git pull 
+  860  mv /home/Sudhakar/pom.xml /home/Sudhakar/devops-us-may-2020/Day3 
+  861  cd Day3
+  862  ls
+  863  cd ..
+  864  git pull
+  865  cd Day3
+  866  ls 
+  867  cd tektutor-hello-plugin/
+  868  ls
+  869  gedit pom.xml 
+  870  cd ..
+  871  ls 
+  872  cd Day7
+  873  ls
+  874  cd ..
+  875  history > /home/Sudhakar/devops-us-may-2020/Day7/Day7_Command.txt
